@@ -1,0 +1,22 @@
+1. Review on OCR for Handwritten Indian Scripts
+Character Recognition
+2.Face Recognition Using Discrete Cosine Transform for Global and Local Features
+3.Malayalam Character Recognition using Discrete
+Cosine Transform
+4. 
+5. Handwritten
+arabic character recognition: Which feature extraction method,
+6. Handwritten Digit Recognition based on DCT
+features and SVM Classifier
+7. V. N. Vapnik, “The nature of statistical learning theory,” 1995.
+8. C.-W. Hsu and C.-J. Lin, "A comparison of methods for multi-class support vector machines", IEEE transactions on Neural Networks, vol. 13, pp. 415-425, 2002.
+9. Jonathan Milgram, Mohamed Cheriet, Robert Sabourin. ”One Against One” or ”One Against All”: Which One is Better for Handwriting Recognition with SVMs?. Guy Lorette. Tenth International Workshop on Frontiers in Handwriting Recognition, Oct 2006, La Baule (France), Suvisoft. <inria-00103955>
+
+
+To do
+ - NN 
+ - Database
+ - Experimental results
+ - Conclusion
+ - References
+ 

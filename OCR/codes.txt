@@ -1,0 +1,18 @@
+n=1;
+for l1=1:125:1375
+u(l1:l1+125-1,257)=n;
+n=n+1;
+end
+
+swap - 
+t=u(:,1);
+u(:,1)=u(:,257);
+u(:,257)=t;
+
+Neural Net output:
+
+n=1;
+for l1=1:125:1750
+output(l1:l1+125-1,n)=1;
+n=n+1;
+end
